@@ -1,0 +1,73 @@
+//Looking at new and total test results by state
+
+SELECT
+iso3166_2 as STATE
+, cast(date as date) as TestDate
+, positive
+, negative
+, SUM(CAST (positive as int)) OVER (Partition by STATE Order by State, testdate) as RollingTotalPositive
+, SUM(CAST (negative as int)) OVER (Partition by STATE Order by State, testdate) as RollingTotalNegative
+
+FROM COVID19_BY_SNOWFLAKE.PUBLIC.CDC_TESTING
+
+ORDER BY
+1, 2 asc
+-----------------------------------------------------------------------------------------------------------
+
+//Looking at populations vs test results
+//CQ_TESTS_POPULATION
+
+DROP TABLE IF EXISTS temp_demographics ;
+DROP TABLE IF EXISTS temp_testtotals ;
+CREATE TEMP TABLE temp_demographics (COUNTRY text, STATE text, TOTAL_POPULATION int) ;
+CREATE TEMP TABLE temp_testtotals (COUNTRY text, STATE text, TOTAL_POSITIVE int, TOTAL_NEGATIVE int) ;
+INSERT INTO temp_demographics (
+SELECT 'United States', iso3166_2 ,sum(total_population) as TOTAL_POPULATION
+FROM COVID19_BY_SNOWFLAKE.PUBLIC.DEMOGRAPHICS
+GROUP BY iso3166_2
+    ) ;
+INSERT INTO temp_testtotals (
+SELECT 'United States', iso3166_2 , sum(positive) , sum(negative)
+FROM COVID19_BY_SNOWFLAKE.PUBLIC.CDC_TESTING
+GROUP BY iso3166_2
+    ) ;
+    
+SELECT
+td.Country, td.state, td.total_population, tt.total_positive, tt.total_negative
+FROM
+temp_demographics as td
+LEFT OUTER JOIN temp_testtotals as tt on td.state = tt.state ;
+
+
+-----------------------------------------------------------------------------------------------------------
+
+//Calculating cases and deaths by country
+
+DROP TABLE IF EXISTS temp_caseanddeath ;
+CREATE TEMP TABLE temp_caseanddeath (Country text, Total_Cases int, Total_Deaths int) ;
+
+INSERT INTO temp_caseanddeath (
+
+SELECT COUNTRY_REGION, SUM(cases_weekly), SUM(deaths_weekly)
+FROM COVID19_BY_SNOWFLAKE.PUBLIC.ECDC_GLOBAL_WEEKLY
+WHERE NOT (contains(country_region, 'total'))
+GROUP BY COUNTRY_REGION
+ORDER BY COUNTRY_REGION asc
+    ) ;
+    
+SELECT *
+FROM temp_caseanddeath
+
+-----------------------------------------------------------------------------------------------------------
+
+//Calculating global cases and deaths by week
+//CQ_GLOBAL_CASES_DEATHS
+
+SELECT
+COUNTRY_REGION
+, sum(cases_weekly) OVER (Partition by country_region Order by country_region, date) as Rolling_Cases
+, sum(deaths_weekly) OVER (Partition by country_region Order by country_region, date) as Rolling_Deaths
+, date
+FROM COVID19_BY_SNOWFLAKE.PUBLIC.ecdc_global_weekly
+WHERE NOT (contains(country_region, 'total'))
+ORDER BY 1, 4 asc
