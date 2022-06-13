@@ -5,6 +5,10 @@ For SQL, Power BI and DAX, I take tables that Snowflake has already created and 
 
 You can also see my custom SQL by opening the "CDC Portfolio Project SQL" text file.
 
-For my Python project, I take a dataset that shows information about movies and tv shows in Amazon Prime's digital catalog. From there, I try to draw conclusions about driving factors for different columns by calculating correlations. I find that the shows and movies popularity is directly correlated on the number of votes it gets.
+For my Python correlation testing, I take a dataset that shows information about movies and tv shows in Amazon Prime's digital catalog. From there, I try to draw conclusions about driving factors for different columns by calculating correlations. I find that the shows and movies popularity is directly correlated on the number of votes it gets.
 
 You can see this information in the "Amazon Prime Video Correlation" file.
+
+In a real business use case I aggregate sums and averages across many KPIs in SQL, then load that dataset into 3 different machine learning modules using Python. I take these modules and enter their predictions back into the original dataset. I average out the predictions to find the majority vote and compare predicted lost clients to actual not lost clients. These predictions can help call out clients that need a pulse check in order to retain them, as well as find correlations across the predictions for flagging to drive future client retention.
+
+You can see this information in the "Machine Learning Predictions" file.
