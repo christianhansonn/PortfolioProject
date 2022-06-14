@@ -16,3 +16,7 @@ You can see this information in the "Machine Learning Predictions" file.
 To solve a personal problem, I create a Power BI report to compare the Niche.com ratings for different categories across various cities I'm looking to move to. I also reformat Zillow's smoothed housing data for the those areas, and plot them to show housing price trends.
 
 You can see this information in the "House_Price" Power BI file.
+
+For futher visulation testing in Python, I run aggregations and different visualizations on Excel workbooks and plot them using pandas, matplotlib, and numpy.
+
+You can see these visualizations in the file "Python Data Visaulizations".
