@@ -3,7 +3,7 @@ In this Portfolio Project, I start to showcase my different levels of expertise 
 
 For SQL, Power BI and DAX, I take tables that Snowflake has already created and committed to updating, aggregate them to pull particular information relevant to what I'm wanting to report on, and then build visuals in a Power BI report. In this report I visualize the data to show totals, trends, and forecast into the future.  In the Power BI report you will see that I do some basic DAX functions to create my own date and calculated measures table. I also implement advanced features like dynamic legends, column formatting, and forecasting.
 
-You can also see my custom SQL by opening the "CDC Portfolio Project SQL" text file.
+You can see all my supporting files by opening the "CDC Project" zip file.
 
 For my Python correlation testing, I take a dataset that shows information about movies and tv shows in Amazon Prime's digital catalog. From there, I try to draw conclusions about driving factors for different columns by calculating correlations. I find that the shows and movies popularity is directly correlated on the number of votes it gets.
 
@@ -15,4 +15,4 @@ You can see this information in the "Machine Learning Predictions" file.
 
 To solve a personal problem, I create a Power BI report to compare the Niche.com ratings for different categories across various cities I'm looking to move to. I also reformat Zillow's smoothed housing data for the those areas, and plot them to show housing price trends.
 
-You can see this information in the House_Price Power BI file.
+You can see this information in the "House_Price" Power BI file.
