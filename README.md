@@ -21,4 +21,6 @@ For futher visulation testing in Python, I run aggregations and different visual
 
 You can see these visualizations in the file "Python Data Visaulizations".
 
-To showcase my progress as I learn JavaScript to help automate my daily tasks, I am uploading small sample projects that will progressively get more advanced. My first JS project is titled Magic Eight Ball
+To showcase my progress as I learn JavaScript to help automate my daily tasks, I am uploading small sample projects that will progressively get more advanced.
+
+You can see my first JS project titled Magic Eight Ball
