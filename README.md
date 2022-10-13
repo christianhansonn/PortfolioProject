@@ -1,5 +1,5 @@
 # PortfolioProject
-In this Portfolio Project, I start to showcase my different levels of expertise in both DAX, SQL, Python and Power BI. 
+In this Portfolio Project, I start to showcase my different levels of expertise in DAX, SQL, Python, JavaScript, and Power BI. 
 
 For SQL, Power BI and DAX, I take tables that Snowflake has already created and committed to updating, aggregate them to pull particular information relevant to what I'm wanting to report on, and then build visuals in a Power BI report. In this report I visualize the data to show totals, trends, and forecast into the future.  In the Power BI report you will see that I do some basic DAX functions to create my own date and calculated measures table. I also implement advanced features like dynamic legends, column formatting, and forecasting.
 
@@ -20,3 +20,5 @@ You can see this information in the "House_Price" Power BI file.
 For futher visulation testing in Python, I run aggregations and different visualizations on Excel workbooks and plot them using pandas, matplotlib, and numpy.
 
 You can see these visualizations in the file "Python Data Visaulizations".
+
+To showcase my progress as I learn JavaScript to help automate my daily tasks, I am uploading small sample projects that will progressively get more advanced. My first JS project is titled Magic Eight Ball
