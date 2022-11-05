@@ -13,7 +13,7 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
 * To use Power BI to solve a real, personal problem I created a dashboard to do visualizations on different cities to consider moving to. Using data from Niche.com about cities my family and I were thinking of moving to we were able to plot housing trends, safety and school ratings, and more.
 
-    You can find this exercise in the *House Price* Power BI file.
+    You can find this exercise in the *Home_Price* Power BI file.
 
 ## Python / Jupyter Notebook
 * For Python, I have done correlation testing using a dataset that has information about movies and tv shows on Amazon Prime. I use this testing to showcase driving factors behind a tv show / movie’s popularity. 
