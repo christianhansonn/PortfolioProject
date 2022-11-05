@@ -1,26 +1,29 @@
-# PortfolioProject
-In this Portfolio Project, I start to showcase my different levels of expertise in DAX, SQL, Python, JavaScript, and Power BI. 
+# Portfolio Project
+In this *Portfolio Project* I will showcase my skills in the following:
+1.	JavaScript
+2.	SQL
+3.	Power BI / DAX / M
+4.	Python
+5.	Machine Learning
 
-For SQL, Power BI and DAX, I take tables that Snowflake has already created and committed to updating, aggregate them to pull particular information relevant to what I'm wanting to report on, and then build visuals in a Power BI report. In this report I visualize the data to show totals, trends, and forecast into the future.  In the Power BI report you will see that I do some basic DAX functions to create my own date and calculated measures table. I also implement advanced features like dynamic legends, column formatting, and forecasting.
+## Power BI and SQL
+* For Power BI / DAX / M and SQL I have taken tables that Snowflake has created and maintained, aggregated them using an SQL query, and then did further calculations and visualizations using Power BI. Using Power BI, I was able to show trends, totals, forecasting, and dynamic legends.
 
-You can see all my supporting files by opening the "CDC Project" zip file.
+    You can find these documents in the *CDC Project* zip file.
 
-For my Python correlation testing, I take a dataset that shows information about movies and tv shows in Amazon Prime's digital catalog. From there, I try to draw conclusions about driving factors for different columns by calculating correlations. I find that the shows and movies popularity is directly correlated on the number of votes it gets.
+* To use Power BI to solve a real, personal problem I created a dashboard to do visualizations on different cities to consider moving to. Using data from Niche.com about cities my family and I were thinking of moving to we were able to plot housing trends, safety and school ratings, and more.
 
-You can see this information in the "Amazon Prime Video Correlation" file.
+    You can find this exercise in the *House Price* Power BI file.
 
-In a real business use case I aggregate sums and averages across many KPIs in SQL, then load that dataset into 3 different machine learning modules using Python. I take these modules and enter their predictions back into the original dataset. I average out the predictions to find the majority vote and compare predicted lost clients to actual not lost clients. These predictions can help call out clients that need a pulse check in order to retain them, as well as find correlations across the predictions for flagging to drive future client retention.
+## Python / Jupyter Notebook
+* For Python, I have done correlation testing using a dataset that has information about movies and tv shows on Amazon Prime. I use this testing to showcase driving factors behind a tv show / movie’s popularity. 
 
-You can see this information in the "Machine Learning Predictions" file.
+    You can find these documents in the *Amazon Prime Video Correlation* file.
 
-To solve a personal problem, I create a Power BI report to compare the Niche.com ratings for different categories across various cities I'm looking to move to. I also reformat Zillow's smoothed housing data for the those areas, and plot them to show housing price trends.
+* To take it a step further, I created three machine learning models with actual business data from a previous role. I trained the ML models to predict client conversions and which clients needed a “pulse check” to drive retention. 
 
-You can see this information in the "House_Price" Power BI file.
+    You can find this exercise in the *Machine Learning Predictions* file.
 
-For futher visulation testing in Python, I run aggregations and different visualizations on Excel workbooks and plot them using pandas, matplotlib, and numpy.
+## JavaScript
 
-You can see these visualizations in the file "Python Data Visaulizations".
-
-To showcase my progress as I learn JavaScript to help automate my daily tasks, I am uploading small sample projects that will progressively get more advanced.
-
-You can see my first JS project titled Magic Eight Ball
+* As I begin my JavaScript learning journey I will post more JS files as my technical skills advance. You can find this progression in any file ending in .JS.
