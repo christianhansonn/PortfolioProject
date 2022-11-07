@@ -1,7 +1,7 @@
 # Portfolio Project
 In this *Portfolio Project* I will showcase my skills in the following:
-1.	[Power BI and SQL](##Power-BI-and-SQL)
-2.	[Python / Jupyter Notebook](##Python-/-Jupyter-Notebook)
+1.	[Power BI and SQL](# Power BI and SQL)
+2.	[Python / Jupyter Notebook](#Python / Jupyter Notebook)
 3.	JavaScript
 4.	HTML and CSS
 
