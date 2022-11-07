@@ -31,3 +31,9 @@ In this *Portfolio Project* I will showcase my skills in the following:
 Some files to check out:
 1. messageGenerator (My first JS portfolio project)
 2. Team Roster (A practice demo for JS syntax)
+
+## HTML and CSS
+
+* Similarly to my progression in JavaScript, I am also learning HTML and CSS through Codecademy. You can see my skills thus far in my [personal portfolio website](https://christianhansonn.github.io/PortfolioWebsite/). 
+
+* At the bottom of my website I have links to my LinkedIn, personal email, this repository, and resume.
