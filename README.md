@@ -27,9 +27,9 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
 * As I begin my JavaScript learning journey through Codecademy, I will post more JS files as my technical skills advance. You can find my progression in any file ending in .JS.
 
-* Some files to check out:
-    1. messageGenerator (My first JS portfolio project)
-    2. Team Roster (A practice demo for JS syntax)
+Some files to check out:
+1. messageGenerator (My first JS portfolio project)
+2. Team Roster (A practice demo for JS syntax)
 
 ## HTML and CSS
 
