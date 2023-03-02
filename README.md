@@ -19,6 +19,10 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
     * You can find these documents in the [Amazon Prime Video Correlation](https://github.com/christianhansonn/PortfolioProject/blob/main/Amazon%20Prime%20Video%20Correlation.ipynb) file.
 
+* As part of certification through Codecademy, I was asked to analyze, draw predictions, and showcase my findings for a test insurance data set.
+
+   * You can find these documents in the [Insurance Portfolio Project](https://github.com/christianhansonn/PortfolioProject/blob/main/insurance_pp.ipynb) file.
+
 * To take it a step further, I created three machine learning models with actual business data from a previous role. I trained the ML models to predict client conversions and which clients needed a “pulse check” to drive retention. 
 
     * You can find this exercise in the [Machine Learning Predictions](https://github.com/christianhansonn/PortfolioProject/blob/main/Machine%20Learning%20Predictions.ipynb) file.
