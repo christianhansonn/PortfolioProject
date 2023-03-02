@@ -1,9 +1,9 @@
 # Portfolio Project
 In this *Portfolio Project* I will showcase my skills in the following:
-1.	[Power BI and SQL](#Power-BI)
-2.	[Python / Jupyter Notebook](#Python)
-3.	[JavaScript](#JS)
-4.	[HTML and CSS](#HTML)
+1.	Power BI and SQL
+2.	Python / Jupyter Notebook
+3.	JavaScript
+4.	HTML and CSS
 
 ## <a id="Power-BI">Power BI and SQL</a>
 * For Power BI / DAX / M and SQL I have taken tables that Snowflake has created and maintained, aggregated them using an SQL query, and then did further calculations and visualizations using Power BI. Using Power BI, I was able to show trends, totals, forecasting, and dynamic legends.
