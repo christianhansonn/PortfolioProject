@@ -21,7 +21,7 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
 * As part of a Machine Learning certification through Codecademy, I was asked to analyze, draw predictions, and showcase my findings for a test insurance data set.
 
-   * You can find these documents in the [Insurance Portfolio Project](https://github.com/christianhansonn/PortfolioProject/blob/main/insurance_pp.ipynb) file.
+   * You can find these documents in the [Insurance Portfolio Project](https://github.com/christianhansonn/PortfolioProject/blob/main/insurance_portfolio_project.ipynb) file.
 
 * To take it a step further, I created three machine learning models with actual business data from a previous role. I trained the ML models to predict client conversions and which clients needed a “pulse check” to drive retention. 
 
