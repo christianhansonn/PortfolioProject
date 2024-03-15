@@ -30,6 +30,8 @@ In this *Portfolio Project* I will showcase my skills in the following:
 ## <a id="JS">Node.js</a>
 
 * For Node.js, I have created automated quality assurance / regression tests using Playwright.
+   
+   * You can find this document in the [Playwright Test Case Automation](https://github.com/christianhansonn/PortfolioProject/blob/main/playwrightTestLoop.spec.js) file.
 
 ## <a id="HTML">Portfolio Website</a>
 
