@@ -2,8 +2,8 @@
 In this *Portfolio Project* I will showcase my skills in the following:
 1.	Power BI and SQL
 2.	Python / Jupyter Notebook
-3.	JavaScript
-4.	HTML and CSS
+3.	Node.js
+4.	Portfolio Website
 
 ## <a id="Power-BI">Power BI and SQL</a>
 * For Power BI / DAX / M and SQL I have taken tables that Snowflake has created and maintained, aggregated them using an SQL query, and then did further calculations and visualizations using Power BI. Using Power BI, I was able to show trends, totals, forecasting, and dynamic legends.
@@ -27,16 +27,12 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
     * You can find this exercise in the [Machine Learning Predictions](https://github.com/christianhansonn/PortfolioProject/blob/main/Machine%20Learning%20Predictions.ipynb) file.
 
-## <a id="JS">JavaScript</a>
+## <a id="JS">Node.js</a>
 
-* As I begin my JavaScript learning journey through Codecademy, I will post more JS files as my technical skills advance. You can find my progression in any file ending in .JS.
+* For Node.js, I have created automated quality assurance / regression tests using Playwright.
 
-Some files to check out:
-1. [messageGenerator](https://github.com/christianhansonn/PortfolioProject/blob/main/messageGenerator.js) (My first JS portfolio project)
-2. [Team Roster](https://github.com/christianhansonn/PortfolioProject/blob/main/Team%20Roster.js) (A practice demo for JS syntax)
+## <a id="HTML">Portfolio Website</a>
 
-## <a id="HTML">HTML and CSS</a>
-
-* Similarly to my progression in JavaScript, I am also learning HTML and CSS through Codecademy. You can see my skills thus far in my [personal portfolio website](https://christianhansonn.github.io/PortfolioWebsite/). 
+* You can see my custom [personal portfolio website](https://christianhansonn.github.io/PortfolioWebsite/). 
 
 * At the bottom of my website I have links to my LinkedIn, personal email, this repository, and resume.
