@@ -12,7 +12,7 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
 * To use Power BI to solve a real, personal problem I created a dashboard to do visualizations on different cities to consider moving to. Using data from Niche.com about cities my family and I were thinking of moving to we were able to plot housing trends, safety and school ratings, and more.
 
-    * You can find this exercise in the [Home_Price](https://github.com/christianhansonn/PortfolioProject/blob/main/Home_Price.pbix) Power BI file.
+    * You can find this exercise in the [Home Price](https://github.com/christianhansonn/PortfolioProject/blob/main/Home_Price.pbix) Power BI file.
 
 ## <a id="Python">Python / Jupyter Notebook</a>
 * For Python, I have done correlation testing using a dataset that has information about movies and tv shows on Amazon Prime. I use this testing to showcase driving factors behind a tv show / movie’s popularity. 
@@ -35,6 +35,6 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
 ## <a id="HTML">Portfolio Website</a>
 
-* You can see my custom [personal portfolio website](https://christianhansonn.github.io/PortfolioWebsite/). 
+* You can see my custom [Portfolio Website](https://christianhansonn.github.io/PortfolioWebsite/). 
 
 * At the bottom of my website I have links to my LinkedIn, personal email, this repository, and resume.
