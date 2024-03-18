@@ -37,4 +37,4 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
 * You can see my custom [Portfolio Website](https://christianhansonn.github.io/PortfolioWebsite/). 
 
-* At the bottom of my website I have links to my LinkedIn, personal email, this repository, and resume.
+* At the bottom of my website I have links to my LinkedIn and this repository.
