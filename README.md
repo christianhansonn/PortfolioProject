@@ -9,12 +9,12 @@ In this *Portfolio Project* I will showcase my skills in the following:
 
 ## AWS Data Pipeline
 * For ETL and data pipelining, my process includes:
-- Storing a dataset in S3.
-- Extracting and transforming it with custom Python code using AWS Glue.
-- Loading the cleaned data into an Aurora database in RDS.
-- Writing a query to use for Quicksight to visualize the cleaned dataset.
+   - Storing a dataset in S3.
+   - Extracting and transforming it with custom Python code using AWS Glue.
+   - Loading the cleaned data into an Aurora database in RDS.
+   - Writing a query to use for Quicksight to visualize the cleaned dataset.
 
-* You can find this process and supporting files outlined in the [Data Pipeline](https://github.com/christianhansonn/PortfolioDataPipeline/tree/main) file.
+   * You can find this process and supporting files outlined in the [Data Pipeline](https://github.com/christianhansonn/PortfolioDataPipeline/tree/main) file.
 
 ## <a id="Python">Python / Jupyter Notebook</a>
 * For Python, I have done correlation testing using a dataset that has information about movies and tv shows on Amazon Prime. I use this testing to showcase driving factors behind a tv show / movie’s popularity. 
