@@ -8,11 +8,11 @@ In this *Portfolio Project* I will showcase my skills in the following:
 5.	Portfolio Website
 
 ## AWS Data Pipeline
-* For ETL and data pipelining, my process includes:
-   - Storing a dataset in S3.
-   - Extracting and transforming it with custom Python code using AWS Glue.
-   - Loading the cleaned data into an Aurora database in RDS.
-   - Writing a query to use for Quicksight to visualize the cleaned dataset.
+For ETL and data pipelining, my process includes:
+- Storing a dataset in S3.
+- Extracting and transforming it with custom Python code using AWS Glue.
+- Loading the cleaned data into an Aurora database in RDS.
+- Writing a query to use for Quicksight to visualize the cleaned dataset.
 
    * You can find this process and supporting files outlined in the [Data Pipeline](https://github.com/christianhansonn/PortfolioDataPipeline/tree/main) file.
 
