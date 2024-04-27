@@ -21,6 +21,10 @@ For ETL and data pipelining, my process includes:
 
     * You can find these documents in the [Amazon Prime Video Correlation](https://github.com/christianhansonn/PortfolioProject/blob/main/Amazon%20Prime%20Video%20Correlation.ipynb) file.
 
+* As an additional side project, I wrote a web scraping tool that scrapes a job board for job postings, automates the job application, and does an analysis on pay range data.
+
+  * You can find tese documents in the  [Automating Job Applications with BeautifulSoup and Playwright](https://github.com/christianhansonn/PortfolioWebScrape) repo.
+
 * As part of a Machine Learning certification through Codecademy, I was asked to analyze, draw predictions, and showcase my findings for a test insurance data set.
 
    * You can find these documents in the [Insurance Portfolio Project](https://github.com/christianhansonn/PortfolioProject/blob/main/insurance_portfolio_project.ipynb) file.
