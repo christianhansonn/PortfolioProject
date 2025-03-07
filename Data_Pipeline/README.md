@@ -20,7 +20,7 @@ This project demonstrates a complete data pipeline implementation for customer d
 
 ## Architecture
 
-![Data Pipeline Flow Chart](https://github.com/christianhansonn/PortfolioDataPipeline/blob/main/static/Portfolio%20Project%20Pipeline.jpeg)
+![Data Pipeline Flow Chart](https://github.com/christianhansonn/PortfolioProject/blob/main/Data_Pipeline/static/Portfolio%20Project%20Pipeline.jpeg)
 
 ## Technical Implementation
 
@@ -97,7 +97,7 @@ Data_Pipeline/
 
 ### AWS Glue ETL and RDS
 
-1. Created custom [Python transformation script](https://github.com/christianhansonn/PortfolioDataPipeline/blob/main/Glue/clean.ipynb) for AWS Glue
+1. Created custom [Python transformation script](https://github.com/christianhansonn/PortfolioProject/blob/main/Data_Pipeline/Glue/clean.ipynb) for AWS Glue
 2. Configured Glue Crawler to discover metadata from S3 data sources
 3. Executed extract and transform processes to clean the dataset
 4. Loaded the transformed data into Aurora Serverless MySQL database

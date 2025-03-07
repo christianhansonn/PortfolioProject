@@ -32,7 +32,7 @@ My end-to-end data pipeline implementation demonstrates cloud architecture exper
 
 The pipeline transforms raw customer data into actionable business insights through automated processing workflows and interactive dashboards.
 
-→ [View Data Pipeline Project](https://github.com/christianhansonn/PortfolioDataPipeline/tree/main)
+→ [View Data Pipeline Project](https://github.com/christianhansonn/PortfolioProject/tree/main/Data_Pipeline)
 
 ## Python & Machine Learning
 
@@ -48,7 +48,7 @@ Conducted comprehensive correlation analysis on Amazon Prime Video dataset to id
 - Performed **statistical significance testing** to validate correlation strength
 - Developed **insights for content strategy** based on analytical findings
 
-→ [View Amazon Prime Video Analysis](https://github.com/christianhansonn/PortfolioProject/blob/main/Amazon%20Prime%20Video%20Correlation.ipynb)
+→ [View Amazon Prime Video Analysis](https://github.com/christianhansonn/PortfolioProject/blob/main/Python/Amazon%20Prime%20Video%20Correlation.ipynb)
 
 ### Automated Job Application Tool
 
@@ -63,7 +63,7 @@ Built a sophisticated tool that scrapes job postings, automates applications, an
 - Applied **modular programming practices** with reusable components and helpers
 - Incorporated **error handling** for robust operation in production environments
 
-→ [View Web Scraping Project](https://github.com/christianhansonn/PortfolioWebScrape)
+→ [View Web Scraping Project](https://github.com/christianhansonn/PortfolioProject/tree/main/Python/WebScrape)
 
 ### Insurance Data Prediction
 
@@ -78,7 +78,7 @@ Analyzed insurance datasets to create predictive models as part of a Codecademy 
 - Created **data visualizations** to communicate model performance and insights
 - Utilized **pandas and scikit-learn** for data manipulation and model building
 
-→ [View Insurance Analysis](https://github.com/christianhansonn/PortfolioProject/blob/main/insurance_portfolio_project.ipynb)
+→ [View Insurance Analysis](https://github.com/christianhansonn/PortfolioProject/blob/main/Python/insurance_portfolio_project.ipynb)
 
 ### Business Conversion Prediction Models
 
@@ -93,7 +93,22 @@ Developed three machine learning models with actual business data to optimize cu
 - Utilized **cross-validation techniques** to ensure model robustness
 - Delivered **actionable business insights** for optimizing customer outreach strategy
 
-→ [View ML Prediction Models](https://github.com/christianhansonn/PortfolioProject/blob/main/Machine%20Learning%20Predictions.ipynb)
+→ [View ML Prediction Models](https://github.com/christianhansonn/PortfolioProject/blob/main/Python/Machine%20Learning%20Predictions.ipynb)
+
+### Data Visualization Fundamentals
+
+**Skills**: Matplotlib, Pandas, NumPy, Data Analysis, Statistical Visualization, Time Series Plotting
+
+Created a comprehensive introduction to Python data visualization techniques using country demographic data:
+
+- Implemented **bar charts and scatter plots** to visualize population and GDP relationships
+- Applied **statistical transformations** (logarithmic scaling) to normalize data distributions
+- Created **time series visualizations** to track economic and population trends
+- Performed **correlation analysis** between GDP per capita and life expectancy
+- Developed **comparative visualizations** to analyze country performance over time
+- Utilized **data aggregation** techniques for trend identification and summarization
+
+→ [View Data Visualization Notebook](https://github.com/christianhansonn/PortfolioProject/blob/main/Python/Python%20Data%20Visualizations.ipynb)
 
 ## Java
 
@@ -109,7 +124,7 @@ Created a sophisticated card game engine that models complex game states and rul
 - Applied **encapsulation principles** for maintainable and extensible code
 - Utilized **Java collections framework** for efficient data manipulation
 
-→ [View Card Game Engine]()
+→ [View Card Game Engine](https://github.com/christianhansonn/PortfolioProject/tree/main/Java/CardGameEngine)
 
 ## Node.js & Test Automation
 
@@ -124,7 +139,7 @@ Developed robust automated regression tests using Playwright that enhance softwa
 - Designed **parallel test execution** for improved efficiency
 - Enabled **CI/CD integration** for automated test runs in deployment pipelines
 
-→ [View Playwright Test Framework](https://github.com/christianhansonn/PortfolioProject/blob/main/playwrightTestLoop.spec.js)
+→ [View Playwright Test Framework](https://github.com/christianhansonn/PortfolioProject/tree/main/Node_js)
 
 ## Power BI & SQL
 
@@ -141,7 +156,7 @@ Transformed Snowflake database tables using SQL aggregations and Power BI to cre
 - Applied **forecasting models** for trend prediction and planning
 - Built **dynamic report filtering** for personalized user experiences
 
-→ [View CDC Project](https://github.com/christianhansonn/PortfolioProject/blob/main/CDC%20Project.zip)
+→ [View CDC Project](https://github.com/christianhansonn/PortfolioProject/blob/main/Power_BI/CDC_Data_Visualization/CDC%20Project.zip)
 
 ### Housing Market Analysis Dashboard
 
@@ -156,7 +171,7 @@ Created an interactive dashboard to analyze potential relocation cities with com
 - Designed **multi-factor decision matrix** for objective comparison
 - Built **time-series visualizations** for trend analysis and forecasting
 
-→ [View Housing Analysis](https://github.com/christianhansonn/PortfolioProject/blob/main/Home_Price.pbix)
+→ [View Housing Analysis](https://github.com/christianhansonn/PortfolioProject/blob/main/Power_BI/House_Market_Analysis/Home_Price.pbix)
 
 ## Portfolio Website
 
