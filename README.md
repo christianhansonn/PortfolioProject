@@ -188,4 +188,4 @@ Created a professional portfolio website showcasing technical skills and project
 
 Visit my [Portfolio Website](https://christianhansonn.github.io/PortfolioWebsite/) for an interactive showcase of my projects.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/christianhanson/) or explore more projects in this [GitHub repository](https://github.com/christianhansonn/PortfolioProject).
+Explore more projects in this [GitHub repository](https://github.com/christianhansonn/PortfolioProject).
